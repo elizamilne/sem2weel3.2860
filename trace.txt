@@ -1,0 +1,3 @@
+dig @198.41.0.4 www.onefc.com +norecurse
+dig @192.42.93.30 www.onefc.com +norecurse
+dig @205.251.193.191 www.onefc.com +norecurse
